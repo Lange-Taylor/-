@@ -1,0 +1,23 @@
+﻿“_3_31saolei.exe”(Win32): 已加载“C:\Users\Administrator\source\repos\_3_31saolei\Debug\_3_31saolei.exe”。已加载符号。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\wintrust.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\msasn1.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\crypt32.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“_3_31saolei.exe”(Win32): 已加载“C:\Windows\SysWOW64\imagehlp.dll”。无法查找或打开 PDB 文件。
+线程 0x29a8 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1880 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1770 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x3314 已退出，返回值为 -1073741749 (0xc000004b)。
+程序“[6412] _3_31saolei.exe”已退出，返回值为 -1073741510 (0xc000013a)。
