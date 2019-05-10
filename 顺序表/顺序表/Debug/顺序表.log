@@ -1,0 +1,8 @@
+﻿  _5_3.c
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(73): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(82): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(110): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(119): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(135): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\顺序表\顺序表\_5_3.c(150): warning C4018: “<”: 有符号/无符号不匹配
+  顺序表.vcxproj -> C:\Users\Administrator\source\repos\顺序表\Debug\顺序表.exe
