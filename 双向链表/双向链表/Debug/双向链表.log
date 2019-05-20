@@ -1,0 +1,4 @@
+﻿  DList.c
+c:\users\administrator\source\repos\双向链表\双向链表\dlist.c(91): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\administrator\source\repos\双向链表\双向链表\dlist.c(165): warning C4020: “DListErase”: 实参太多
+  双向链表.vcxproj -> C:\Users\Administrator\source\repos\双向链表\Debug\双向链表.exe
