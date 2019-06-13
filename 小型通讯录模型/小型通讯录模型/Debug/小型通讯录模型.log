@@ -1,0 +1,19 @@
+﻿  test.c
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(78): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(117): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int *”
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(150): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(152): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(153): warning C4133: “函数”: 从“int [1024]”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(154): warning C4133: “函数”: 从“int [1024]”到“char *”的类型不兼容
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(154): warning C4133: “函数”: 从“int [1024]”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(174): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int *”
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(182): warning C4129: “N”: 不可识别的字符转义序列
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(231): warning C4098: “SavePersonInfoFile”:“void”函数返回值
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(236): warning C4133: “函数”: 从“int [1024]”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(246): warning C4098: “SavePersonInfoFile”:“void”函数返回值
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(256): warning C4133: “函数”: 从“int [1024]”到“const char *”的类型不兼容
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(269): warning C4098: “SavePersonInfoFile”:“void”函数返回值
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(283): warning C4098: “ReadPersonInfo”:“void”函数返回值
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(290): warning C4098: “ReadPersonInfo”:“void”函数返回值
+c:\users\administrator\source\repos\小型通讯录模型\小型通讯录模型\test.c(300): warning C4098: “ReadPersonInfo”:“void”函数返回值
+  小型通讯录模型.vcxproj -> C:\Users\Administrator\source\repos\小型通讯录模型\Debug\小型通讯录模型.exe
