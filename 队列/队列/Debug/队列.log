@@ -1,0 +1,8 @@
+﻿  Queue.h
+  Queue.c
+c:\users\administrator\source\repos\队列\队列\queue.c(26): warning C4033: “BuyQueueNode”必须返回值
+c:\users\administrator\source\repos\队列\队列\queue.c(45): warning C4047: “函数”:“Queue *”与“Queue **”的间接级别不同
+c:\users\administrator\source\repos\队列\队列\queue.c(45): warning C4024: “QueueEmpty”: 形参和实参 1 的类型不同
+c:\users\administrator\source\repos\队列\队列\queue.c(31): warning C4715: “BuyQueueNode”: 不是所有的控件路径都返回值
+Debug\Queue.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  队列.vcxproj -> C:\Users\Administrator\source\repos\队列\Debug\队列.exe
