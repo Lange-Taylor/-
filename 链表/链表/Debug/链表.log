@@ -1,0 +1,4 @@
+﻿  SList.c
+c:\users\administrator\source\repos\链表\链表\slist.c(19): warning C4033: “BuySListNode”必须返回值
+c:\users\administrator\source\repos\链表\链表\slist.c(24): warning C4715: “BuySListNode”: 不是所有的控件路径都返回值
+  链表.vcxproj -> C:\Users\Administrator\source\repos\链表\Debug\链表.exe
